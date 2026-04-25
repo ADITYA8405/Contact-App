@@ -46,8 +46,8 @@ The business logic (Provider + SQLite) remained unchanged, ensuring UI improveme
 <h3>Before vs After</h3>
 
 <p align="center">
-  <img src="https://github.com/ADITYA8405/Contact-App/blob/4f4b7c1ae76e136016e28437a07d5c1ccc728e90/assets/%20before.png" width="300"/>
-  <img src="https://github.com/ADITYA8405/Contact-App/blob/4f4b7c1ae76e136016e28437a07d5c1ccc728e90/assets/after.png" width="300"/>
+  <img src="https://github.com/ADITYA8405/Contact-App/blob/4f4b7c1ae76e136016e28437a07d5c1ccc728e90/assets/%20before.png" width="210" style="margin-right:20px;" />
+  <img src="https://github.com/ADITYA8405/Contact-App/blob/4f4b7c1ae76e136016e28437a07d5c1ccc728e90/assets/after.png" width="210"/>
 </p>
 
 <p align="center">
