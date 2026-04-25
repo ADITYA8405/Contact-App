@@ -44,8 +44,8 @@ The business logic (Provider + SQLite) remained unchanged, ensuring UI improveme
 
 ### Before vs After
 
-![Before UI](assets/before.png)
-![After UI](assets/after.png)
+![Before UI](https://github.com/ADITYA8405/Contact-App/blob/9c2378232bfccff04ef1e1f5e0170138e536ea53/assets/before.png)
+![After UI](https://github.com/ADITYA8405/Contact-App/blob/9c2378232bfccff04ef1e1f5e0170138e536ea53/assets/after.png)
 ## ⚡ How to Run
 
 ```bash
