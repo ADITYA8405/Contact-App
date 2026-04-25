@@ -43,9 +43,17 @@ This helped me:
 The business logic (Provider + SQLite) remained unchanged, ensuring UI improvements were purely presentational.
 
 ### Before vs After
+<h3>Before vs After</h3>
 
-![Before UI](https://github.com/ADITYA8405/Contact-App/blob/9c2378232bfccff04ef1e1f5e0170138e536ea53/assets/before.png)
-![After UI](https://github.com/ADITYA8405/Contact-App/blob/9c2378232bfccff04ef1e1f5e0170138e536ea53/assets/after.png)
+<p align="center">
+  <img src="https://github.com/ADITYA8405/Contact-App/blob/4f4b7c1ae76e136016e28437a07d5c1ccc728e90/assets/%20before.png" width="300"/>
+  <img src="https://github.com/ADITYA8405/Contact-App/blob/4f4b7c1ae76e136016e28437a07d5c1ccc728e90/assets/after.png" width="300"/>
+</p>
+
+<p align="center">
+  <b>Before UI</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>After UI</b>
+</p>
 ## ⚡ How to Run
 
 ```bash
