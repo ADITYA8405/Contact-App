@@ -1,6 +1,7 @@
 # 📱 Contact App (Flutter)
 
 A contact management app built using Flutter with offline database support and clean state management.
+To understand the core of state managment i made a simple project to get grasp on how to use offline database with CRUD operations .
 
 ---
 
@@ -39,11 +40,12 @@ This helped me:
 - Improve visual hierarchy
 - Refactor UI cleanly
 - Maintain separation of concerns
+The business logic (Provider + SQLite) remained unchanged, ensuring UI improvements were purely presentational.
 
 ### Before vs After
 
-
-
+![Before UI](assets/before.png)
+![After UI](assets/after.png)
 ## ⚡ How to Run
 
 ```bash
